@@ -10,7 +10,7 @@ function App() {
         <Routes>
             <Route path="/" element={<Excuses />}/>
             <Route path="/add" element={<AddExcuse />}/>
-            <Route path="/:http_code" element={<HttpCode />}/>
+            <Route path="/:http_code" element={<HttpCode />} />
         </Routes>
       </Router>
   );
