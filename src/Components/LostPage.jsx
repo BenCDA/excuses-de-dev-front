@@ -23,7 +23,6 @@ const LostPage = () => {
 
     return (
         <div style={{ textAlign: 'center', marginTop: '50px' }}>
-            <h1>i'm lost</h1>
             <div style={{ position: 'relative', paddingBottom: '56.25%', height: '0', overflow: 'hidden' }}>
                 <iframe
                     title="Lost GIF"
